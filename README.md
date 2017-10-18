@@ -1,4 +1,3 @@
-Express Todo REST API client using Mongo and Angular
-=> This client is consuming the REST API exposed at https://github.com/wiwa1978/blog-express-todo-mongo-api
+Sample todo application MEAN application on Docker using docker-compose v2
 
-Found on http://blog.wimwauters.com/consuming-express-nodejs-rest-api-with-angular/
+Found on http://blog.wimwauters.com/deploy-custom-application-with-docker-swarm-mode-and-docker-compose-v2
